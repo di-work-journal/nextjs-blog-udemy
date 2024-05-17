@@ -26,7 +26,7 @@ function Home({ allPostsData }) {
         <title>{siteTitle}</title>
       </Head>
       <section className={utliStyles.headingMd}>
-        <p>テストのためのダミー文章です。</p>
+        <p>こちらはNext.jsテストのためのダミーページです。</p>
       </section>
       <section>
         <h2 className={utliStyles.centerText}>📝テスト作成のブログ</h2>
